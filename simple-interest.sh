@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # dvv97 - Daniel Villalibre
 
    # Input:
    # p, principal amount
